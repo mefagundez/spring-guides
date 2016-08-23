@@ -1,0 +1,6 @@
+# Spring guides from https://spring.io/guides/
+Until now there are only three tutorials
+
+* Rest Service: https://spring.io/guides/gs/rest-service/
+* Consume a Restful WS: https://spring.io/guides/gs/consuming-rest/
+* Scheduling Tasks: https://spring.io/guides/gs/scheduling-tasks/
